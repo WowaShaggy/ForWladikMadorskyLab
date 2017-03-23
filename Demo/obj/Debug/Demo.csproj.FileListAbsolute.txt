@@ -1,0 +1,56 @@
+E:\MadorskyLab1\Demo\bin\Debug\Demo.exe.config
+E:\MadorskyLab1\Demo\obj\Debug\MainWindow.g.cs
+E:\MadorskyLab1\Demo\obj\Debug\App.g.cs
+E:\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.cache
+E:\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.lref
+E:\MadorskyLab1\Demo\bin\Debug\Demo.exe
+E:\MadorskyLab1\Demo\bin\Debug\Demo.pdb
+E:\MadorskyLab1\Demo\bin\Debug\SimpleExpressionEvaluator.dll
+E:\MadorskyLab1\Demo\obj\Debug\MainWindow.baml
+E:\MadorskyLab1\Demo\obj\Debug\Demo.g.resources
+E:\MadorskyLab1\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\MadorskyLab1\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\MadorskyLab1\Demo\obj\Debug\Demo.exe
+E:\MadorskyLab1\Demo\obj\Debug\Demo.pdb
+E:\MadorskyLab1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\MadorskyLab1\Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.exe.config
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.exe
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.pdb
+E:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.exe
+E:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.pdb
+E:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\SimpleExpressionEvaluator.dll
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\MainWindow.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\App.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.cache
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.lref
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\MainWindow.baml
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.g.resources
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Controls\ChartControl.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Controls\ChartControl.baml
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\LogPresenter.g.cs
+E:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\LogPresenter.baml
+F:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.exe.config
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.exe
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.pdb
+F:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.exe
+F:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\Demo.pdb
+F:\Нейкие файлы\MadorskyLab1\Demo\bin\Debug\SimpleExpressionEvaluator.dll
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Controls\ChartControl.g.cs
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\LogPresenter.g.cs
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\MainWindow.g.cs
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\App.g.cs
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.cache
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo_MarkupCompile.lref
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Controls\ChartControl.baml
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\LogPresenter.baml
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\MainWindow.baml
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.g.resources
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.Properties.Resources.resources
+F:\Нейкие файлы\MadorskyLab1\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache

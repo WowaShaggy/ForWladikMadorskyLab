@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="Demo.Controls.ChartControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Demo.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+	<Grid SizeChanged="Grid_SizeChanged" MouseDown="Grid_MouseDown">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		<Grid>
+			<Grid.Background>
+				<ImageBrush ImageSource="/Demo;component/Images/scale.png"
+                            TileMode="Tile" ViewportUnits="Absolute" Viewport="0,0,5,5" />
+			</Grid.Background>
+			<Line Margin="0,15,0,0" x:Name="ordinata" StrokeThickness="1" Stroke="Black" X1="0" Y1="0" X2="0" Y2="0"/>
+			<Line Margin="15,0,0,0"  x:Name="abscissa" StrokeThickness="1" Stroke="Black" X1="0" Y1="0" X2="0" Y2="0"/>
+			<TextBlock x:Name="yy"/>
+			<TextBlock x:Name="xx" HorizontalAlignment="Right"/>
+			<Image x:Name="topArrow" Visibility="Hidden" Width="7" Height="4" HorizontalAlignment="Left" VerticalAlignment="Top" Source="/Demo;component/Images/arrowtop.png"/>
+			<Image x:Name="leftArrow" Visibility="Hidden" Width="4" Height="7" HorizontalAlignment="Right" VerticalAlignment="Top" Source="/Demo;component/Images/arrow.png"/>
+			<Canvas x:Name="content" Margin="15,15,15,15"/>
+		</Grid>
+		<Grid Grid.Row="1" Height="100" Background="White">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="*"/>
+				<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
+			<StackPanel Margin="5,5,5,5">
+				<TextBlock Text="Цвет" HorizontalAlignment="Center"/>
+				<Slider Value="100" x:Name="colorX" Margin="0,5,0,0" Minimum="0" Maximum="255" ValueChanged="colorX_ValueChanged"/>
+				<Slider Value="20" x:Name="colorY" Margin="0,5,0,0" Minimum="0" Maximum="255" ValueChanged="colorX_ValueChanged"/>
+				<Slider Value="50" x:Name="colorZ" Margin="0,5,0,0" Minimum="0" Maximum="255" ValueChanged="colorX_ValueChanged"/>
+			</StackPanel>
+			<StackPanel Margin="5,5,5,5" Grid.Column="1">
+				<TextBlock Text="Толщина" HorizontalAlignment="Center"/>
+				<Slider Value="4" x:Name="tchcknes" Margin="0,5,0,0" Minimum="1" Maximum="10" ValueChanged="colorX_ValueChanged"/>
+				<TextBlock Text="Текст" HorizontalAlignment="Center"/>
+				<Slider Value="14" x:Name="txtSize" Margin="0,5,0,0" Minimum="6" Maximum="36" ValueChanged="colorX_ValueChanged"/>
+			</StackPanel>
+		</Grid>
+	</Grid>
+</UserControl>

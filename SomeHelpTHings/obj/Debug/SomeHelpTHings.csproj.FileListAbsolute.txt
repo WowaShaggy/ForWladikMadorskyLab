@@ -1,0 +1,12 @@
+E:\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.exe.config
+E:\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.exe
+E:\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.pdb
+E:\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.csprojResolveAssemblyReference.cache
+E:\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.exe
+E:\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.pdb
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.exe.config
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.exe
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\bin\Debug\SomeHelpTHings.pdb
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.csprojResolveAssemblyReference.cache
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.exe
+E:\Нейкие файлы\MadorskyLab1\SomeHelpTHings\obj\Debug\SomeHelpTHings.pdb
